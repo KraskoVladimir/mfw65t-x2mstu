@@ -1,0 +1,17 @@
+{
+  "name": "asuekv.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-data-query": "1.5.0",
+    "@progress/kendo-drawing": "1.5.8",
+    "@progress/kendo-vue-grid": "0.1.2",
+    "@progress/kendo-vue-intl": "0.1.2",
+    "@progress/kendo-vue-pdf": "0.1.2",
+    "cldr-core": "^34.0.0",
+    "cldr-dates-full": "^34.0.0",
+    "cldr-numbers-full": "^34.0.0",
+    "vue": "2.5.22",
+    "vue-class-component": "6.3.2"
+  }
+}
