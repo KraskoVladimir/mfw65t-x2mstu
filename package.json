@@ -11,7 +11,7 @@
     "cldr-core": "^34.0.0",
     "cldr-dates-full": "^34.0.0",
     "cldr-numbers-full": "^34.0.0",
-    "vue": "2.5.22",
+    "vue": "3.0.0",
     "vue-class-component": "6.3.2"
   }
 }
